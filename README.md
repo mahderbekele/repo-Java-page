@@ -1,1 +1,1 @@
-# repo-Java-page
+# This repo contains javascript strings.
